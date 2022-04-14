@@ -1,0 +1,21 @@
+ul {
+  text-decoration: none;
+}
+
+.List {
+}
+
+/**
+CenterMe section
+*/
+.CenterMe {
+  height: 300px;
+}
+
+.child {
+  background-color: #2d3239;
+  color: white;
+  padding: 15px;
+  width: 150px;
+  text-align: center;
+}
